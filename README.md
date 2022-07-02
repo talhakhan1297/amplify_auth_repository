@@ -2,7 +2,7 @@
 
 Flutter package to implement authentication and storage using AWS Amplify.
 
-## Features
+## Features ✨
 
 - Sign up with email and password
 - Sign in with email and password
@@ -13,14 +13,14 @@ Flutter package to implement authentication and storage using AWS Amplify.
 - Upload file on S3 bucket
 - Generate URL for the uploaded file
 
-## Getting Started
+## Getting Started 🎉
 
-### Amplify
+### Amplify 📝
 
 1. Create your project
 2. Download `amplifyconfiguration.dart` file
 3. Docs `https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/` 
 
-### Run the project
+### Run the project 🚀
 
 1. `flutter run`
