@@ -1,0 +1,1 @@
+# amplify_auth_repository
