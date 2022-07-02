@@ -1,7 +1,6 @@
 name: amplify_auth_repository
 description: Dart package which manages the authentication domain with aws amplify.
 version: 1.0.0
-publish_to: none
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
