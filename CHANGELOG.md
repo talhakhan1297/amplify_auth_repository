@@ -1,4 +1,4 @@
-# 1.0.0
+# 0.0.1
 
 - Sign up with email and password
 - Sign in with email and password
